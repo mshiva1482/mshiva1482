@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Shiva gurunath
-- 👀 I’m interested in webdevelopment and making things look beautiful on the web :)
-- 🌱 I’m currently learning JavaScript
-
+- 🏫 I'm currently studying at Vellore Institute of Technology, Chennai, India.
+- 🌱 My area of interest is Web Development, UI and UX design.
 - 📫 How to reach me -> 
 mail: mshiva1482@gmail.com
 
